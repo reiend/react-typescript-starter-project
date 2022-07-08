@@ -1,4 +1,4 @@
-// this removes on Tsserver linting when toding an import
+// this removes on Tsserver linting errors when toding an import
 
 declare module "*.jpeg" {
   const content: any;
