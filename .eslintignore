@@ -1,2 +1,4 @@
-/webpack.dev.js
 /src/libs
+/src/libs
+/webpack
+/src/declarations.d.ts
